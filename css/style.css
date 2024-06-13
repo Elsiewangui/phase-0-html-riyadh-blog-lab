@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image: linear-gradient(to right, #4d27b600, rgb(0, 174, 255)) ;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 80%;
+  
 }
 
 .wrapper {
@@ -25,7 +26,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: #fff;
 }
 
@@ -40,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -56,7 +57,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(184, 40, 148);
   text-decoration: none;
 }
 
